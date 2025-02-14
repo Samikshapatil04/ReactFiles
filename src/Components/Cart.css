@@ -1,0 +1,8 @@
+.cart-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 8vw;
+}

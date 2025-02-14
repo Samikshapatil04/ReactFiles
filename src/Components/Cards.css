@@ -1,0 +1,31 @@
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.card-container {
+  width: 14vw;
+  height: 40vh;
+  background-color: white;
+  border-radius: 10px;
+  border: 2px solid #b2ebf2;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.66);
+  padding: 30px;
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.image {
+  width: 16vw;
+  height: 20vh;
+  align-items: center;
+}
+
+.button {
+  background-color: rgb(53, 201, 53);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 10svw;
+  height: 3vh;
+  border: 1px;
+  border-style: solid;
+}
